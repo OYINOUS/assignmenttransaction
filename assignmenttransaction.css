@@ -1,0 +1,127 @@
+section{
+    padding: auto;
+    padding-left: 900px;
+    height: 1250px;
+background-color: rgb(190, 185, 185);
+justify-content: center;
+align-content: center;
+
+}
+.boxes{
+    height: 650px;
+    width:650px;
+
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+    justify-content:  center;
+    align-items: center;
+}
+
+.box1{
+    height: 250px;
+    width: 600px;
+    background-color: white;
+    border: 2px solid rgb(215, 215, 228);
+    border-radius: 40px;
+
+}
+.img{
+    height: 10px;
+}
+.box2{
+    height: 300px;
+    width: 600px;
+    background-color: white;
+    border: 2px solid rgb(231, 231, 247);
+    border-radius: 40px;
+
+}
+.logo{
+    height: 95px;
+    width: 95px;
+    padding: 10px;
+    padding-top: 52px;
+    overflow: hidden;
+}
+.dear{
+    font-weight: 520;
+    justify-items: center;
+
+}
+.join{
+    color: rgb(82, 80, 80);
+    padding-left: 126px;
+    justify-content: center;
+    font-size: 22px;
+}
+.sign{
+    padding-left: 555px
+}
+.imgg{
+    width: 50px;
+    height: 50px;
+    margin-left: 300px;
+    margin-top: 18px;
+    border-radius: 100px;
+    color: rgb(15, 11, 11);
+}
+button{
+    width: 80px;
+    border: 0px;
+    margin-left: 300px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 255);
+    border-radius: 25px;
+    height: 30px;
+    margin-top: 48px;
+}
+.image{
+    border-radius: 100px;
+    width: 32px;
+    height: 32px;
+    padding: 6px;
+}
+.fam{
+        display: flex;
+        height: 150px;
+}
+.money{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.send{
+    padding-top: 70px;
+}
+.hi{
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: grey;
+}
+.available{
+        color: rgb(140, 140, 140);
+        font-size: 12px;
+}
+.pictures{
+    display: flex;
+    margin-left: 25px;
+}
+.send{
+    padding-top: 70px;
+}
+.trans{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 17px;
+    font-display: bold;
+}
+footer {
+    background-color: #333; /* Dark background */
+    color: white; /* White text */
+    text-align: center; /* Centered text */
+    padding: 10px;
+    position: fixed; /* Fixed at the bottom */
+    bottom: 0;
+    width: 100%;
+}
